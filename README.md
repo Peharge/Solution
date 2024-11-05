@@ -3,7 +3,7 @@
 </p>
 <br>
 <div align="center">
-<img alt="woyzy" src="https://img.shields.io/badge/Solution-F7DF1E">
+<img alt="solution" src="https://img.shields.io/badge/Solution-F7DF1E">
 <img alt="tg-loerrach" src="https://img.shields.io/badge/Peharge-red">
 <br>
 <br>
