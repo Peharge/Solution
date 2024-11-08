@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./images-readme/solution.ico" width="250"/>
+    <img src="smn-logo.svg" width="300"/>
 </p>
 <br>
 <div align="center">
